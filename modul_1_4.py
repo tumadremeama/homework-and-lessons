@@ -1,8 +1,8 @@
 name = input()
 print(len(name))
 
-print('my_string'.upper())
-print('my_string'.lower())
-print('my_string'.replace(' ', ' '))
-print('my_string'[0])
-print('my_string'[-1])
+print(name.upper())
+print(name.lower())
+print(name.replace(' ', ' '))
+print(name[0])
+print(name[-1])
